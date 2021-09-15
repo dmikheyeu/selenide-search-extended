@@ -10,6 +10,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class PracticeFormTests {
 
+
     @BeforeAll
     static void setup() {
         Configuration.baseUrl = "https://demoqa.com";
