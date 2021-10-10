@@ -2,7 +2,7 @@ package guru.qa.tests;
 
 import org.junit.jupiter.api.*;
 
-public class FirstTest {
+public class    FirstTest {
 
     @BeforeAll
     static void beforeAll() {
